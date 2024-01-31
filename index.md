@@ -2,11 +2,11 @@
 
 ### ```cd```
 #### - Example 1 (no arugments): ```cd``` --> ![Image](cd1.png)
-##### - it will show nothing because cd will bring you back to the root dir
+##### - it will show nothing because cd will bring you back to the home /home
 #### - Example 2: ```d lecture1``` -->  ![Image](cd2.png)
 ##### - it will show that that dir changes to lecture1 since we move to this working dir with cd
 #### - Example 3: ```cd lecture1/messages/en-us.txt``` --> ![Image](cd3.png)
-##### - it will show and bash since you can not cd to a file because it's expecting a dir path not a file path
+##### - The cd command is used to change the current directory, and it only works with directories, not files. If en-us.txt is a file, the command will result in an error, 
 
 ### ```ls```
 #### - Example 1 (no arugments): ```ls``` --> ![Image](ls1.png)
